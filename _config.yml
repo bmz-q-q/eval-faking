@@ -1,1 +1,3 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+title: Evaluation Faking
+description: Project Page for the paper "Evaluation Faking: Unveiling Observer Effects in Safety Evaluation of Frontier AI Systems"

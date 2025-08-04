@@ -25,7 +25,7 @@ We design **honeypot scenarios**, implement **chain-of-thought (CoT) monitoring*
 
 ## 🧪 Method Overview
 
-![Method Overview](assets/method_a.pdf)
+![Method Overview](assets/method_a-1.png)
 
 Our methodology includes:
 - Honeypots: Controlled prompts with and without evaluation cues.
